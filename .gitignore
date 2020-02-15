@@ -1,0 +1,5 @@
+# Igonore Log folder
+log/
+
+#remove data container
+*.npy
