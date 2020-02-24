@@ -1,4 +1,4 @@
-# Tranied DNN module
+# Trained  DNN module
 #### A DNN has been trained to classify whether images contain either a dog or a cat.
 
 You can find the dataset from [here](https://www.kaggle.com/c/dogs-vs-cats)
@@ -7,3 +7,4 @@ You can find the dataset from [here](https://www.kaggle.com/c/dogs-vs-cats)
   1. numpy
   2. tflearn
   3. matplotlib
+
